@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lauri Lehtonen, a 21-year old student from Tampere, Finland.
+- 👀 I’m interested in embedded systems and digital electronics
+- 🌱 I’m currently learning electronics and embedded systems engineering at Tampere university
+- 📫 How to reach me lauri.er.lehtonen@outlook.com
