@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lauri Lehtonen, a 22-year old student from Tampere, Finland.
-- 👀 I’m interested in machine learning and embedded systems
+- 👋 Hi, I’m Lauri Lehtonen, a 23-year old student from Tampere, Finland.
+- 👀 I’m interested in machine learning and Image processing
 - 🌱 I’m currently studyin signal processing and machine learning at Tampere university
 - 📫 lauri.er.lehtonen@outlook.com
