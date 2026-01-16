@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Lauri Lehtonen, a 25-year old Automation engineer from Finland.
 - 👀 I’m interested in industrial automation, machine learning, image processing and Data engineering. 
-- 🌱 I have a M.Sc in signal processing and machine learning at Tampere university.
+- 🌱 I have a M.Sc in signal processing and machine learning from Tampere university.
 - 📫 lauri.er.lehtonen@outlook.com
